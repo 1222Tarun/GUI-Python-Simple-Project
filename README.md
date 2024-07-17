@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YouTube Video Downloader</title>
+    round: #f4f4f4;
+            padding: 10px;
+         border: 
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -18,9 +21,7 @@
             color: #333;
         }
         pre {
-            background: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
+            backg1px solid #ddd;    
         }
     </style>
 </head>
@@ -47,7 +48,7 @@
         <p>Clone the repository:</p>
         <pre>
 <code>
-git clone https://github.com/yourusername/youtube-video-downloader.git
+git clone https://github.com/1222Tarun/youtube-video-downloader.git
 cd youtube-video-downloader
 </code>
         </pre>
@@ -60,7 +61,7 @@ pip install -r requirements.txt
         <p>Run the application:</p>
         <pre>
 <code>
-python main.py
+python video_downloader.py
 </code>
         </pre>
         <h2>Usage</h2>

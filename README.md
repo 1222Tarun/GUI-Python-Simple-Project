@@ -4,9 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YouTube Video Downloader</title>
-    round: #f4f4f4;
-            padding: 10px;
-         border: 
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -21,7 +18,9 @@
             color: #333;
         }
         pre {
-            backg1px solid #ddd;    
+            background: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ddd;
         }
     </style>
 </head>

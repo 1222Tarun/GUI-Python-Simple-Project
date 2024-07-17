@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YouTube Video Downloader</title>
+<!--     <title>YouTube Video Downloader</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -22,7 +22,7 @@
             padding: 10px;
             border: 1px solid #ddd;
         }
-    </style>
+    </style> -->
 </head>
 <body>
     <div class="container">
